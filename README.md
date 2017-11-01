@@ -1,4 +1,4 @@
-# Anemia-Blood-samples (Iron-deficient blood slide images)
+# Blood samples for Image Processing and Machine Learning (Iron-deficient blood slide images)
 I have taken over 60 images of 10 different iron-deficient blood slides myself by using Olympus CH40RF200 microscope equipped with a Sony Full HD 1080 digital camera with an effective magnification of 100.
 The blood samples are taken from the Department of Medical Sciences of University of Isfahan, Iran and Sayed-Al-Shohada Hospital located at Isfahan, Iran.
 
@@ -10,5 +10,6 @@ https://doi.org/10.1109/PRIA.2015.7161628
 
 Authors: Mahsa Lotfi, Behzad Nazari, Saeid Sadri and Nazila Karimian Sichani
 
-
+This Dataset can be downloaded from the link below:
+# https://drive.google.com/drive/folders/0B7woTslEHR-bUW5yblhjYUNOeXM?usp=sharing
 
