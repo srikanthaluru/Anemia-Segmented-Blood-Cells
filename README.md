@@ -1,5 +1,4 @@
-# Anemia-Blood-samples
-Iron-deficient blood slide images 
+# Anemia-Blood-samples (Iron-deficient blood slide images)
 I have taken over 60 images of 10 different iron-deficient blood slides myself by using Olympus CH40RF200 microscope equipped with a Sony Full HD 1080 digital camera with an effective magnification of 100.
 The blood samples are taken from the Department of Medical Sciences of University of Isfahan, Iran and Sayed-Al-Shohada Hospital located at Isfahan, Iran.
 
@@ -8,6 +7,7 @@ My relevant paper is:
 
 The Detection of Dacrocyte, Schistocyte and Elliptocyte cells in Iron Deficiency Anemia
 https://doi.org/10.1109/PRIA.2015.7161628
+
 Authors: Mahsa Lotfi, Behzad Nazari, Saeid Sadri and Nazila Karimian Sichani
 
 
