@@ -5,7 +5,7 @@ The blood samples are taken from the Department of Medical Sciences of Universit
 This dataset can be used for machine learning and image processing purposes and is free to all researchers. I would appreciate it if you could mention the details of the dataset and cite my relevant paper (mentioned below) if you use my dataset in your studies. 
 My relevant paper is:
 
-The Detection of Dacrocyte, Schistocyte and Elliptocyte cells in Iron Deficiency Anemia
+# The Detection of Dacrocyte, Schistocyte and Elliptocyte cells in Iron Deficiency Anemia
 https://doi.org/10.1109/PRIA.2015.7161628
 
 Authors: Mahsa Lotfi, Behzad Nazari, Saeid Sadri and Nazila Karimian Sichani
